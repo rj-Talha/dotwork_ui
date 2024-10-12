@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "497213183980",
+    "project_id": "dotwork-ui",
+    "storage_bucket": "dotwork-ui.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497213183980:android:4daa9e29147b7f41ddd2c9",
+        "android_client_info": {
+          "package_name": "com.example.dotwork_ui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqVFreX-ofm_mNmMs--_zmHE58ETkm_Fw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
